@@ -42,7 +42,7 @@ export default function Valentine() {
           }}
         >
           <h1 className="mb-6 text-2xl font-bold text-pink-600">
-            Vekyop, will you be my Valentine? 💖
+            Vekyop Morik Dorcas My heartBeat, will you be my Valentine? 💖
           </h1>
 
           <div className="relative flex justify-center gap-6">
