@@ -25,7 +25,7 @@ export default function Valentine() {
         playsInline
         className="absolute inset-0 h-full w-full object-cover"
       >
-        <source src="/valentine-video.mp4" type="video/mp4" />
+        <source src="https://res.cloudinary.com/domawf55j/video/upload/f_auto,q_auto/bg-img_xdv0tr.mp4" type="video/mp4" />
       </video>
 
       {/* Overlay */}
