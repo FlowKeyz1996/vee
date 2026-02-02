@@ -77,7 +77,7 @@ export default function Valentine() {
             }}
           >
             <h2 className="mb-2 text-3xl font-bold text-pink-600">Yay! 🎉</h2>
-            <p className="mx-auto mt-4 max-w-md text-lg leading-relaxed text-white">
+            <p className="mx-auto mt-4 max-w-md text-lg leading-relaxed text-black">
               I love you so much 💕. You make my days brighter, my smiles wider,
               and my heart happier. I’m really grateful for you. Even though they are days we feel apart. I love you still. I hope this puts a smile on your face
             </p>
